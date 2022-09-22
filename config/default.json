@@ -1,0 +1,9 @@
+{
+    "db":{
+        "host":"127.0.0.1",
+        "user":"root",
+        "password":"5257990lee",
+        "database":"aluminum"
+    },
+    "url":"http://127.0.0.1:3007"
+}
